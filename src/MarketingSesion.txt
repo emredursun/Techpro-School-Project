@@ -1,0 +1,37 @@
+ 100 user stories
+        User story id description, acceptance criteria
+        US should be linked to test cases
+        Test cases US_id, TC_id, precondition, steps, test data, actual result and expected result status
+        Test case will be linked to correspondent User story
+        Test Set => we will link it to all test cases of 1 user story
+        Test Plan => everyone in the QA / Automation team will have one to execute their test cases from test plan
+        Feature  => Registration page
+        Epic => personal Id info => SSN, firstname and lastname
+        USER story => Description and ACs
+        Why should we hire you?
+        I made a lot of searches about your company and I see that you are attributing a great importance to your clients which means that you also take care of your employees well.
+        I think these qualities broght me to the same page and I applied for you. So I would like to share my experience in automation, and business with my strong communication and contributions with my skills.
+        I think this would be a win-win story
+
+        company aproach to employees should be described
+        your technical, business experience share
+        how you will contribute also with your communication and collaboration in team
+        communication and collaboration
+        technical and business experience
+        search about the job description
+        search about company
+        search also about the people who will interview you
+        What is your experience with API?
+        I do use Postman for Manual testing of API and Rest Assured Library for automation.
+        We use swagger document for API testing
+        we do End to End testing using
+        we are using Endpoints to make certain requests
+        such as Get, POST, PUT and DELETE
+        we manage and apply certain authentication and authorisations to manipulate the data securely and we use Bearer Token for authentication
+        we are validating the data using Object Mapper and GSON for serialization(Java to JSON) and deserialization(JSON to Java)
+        we use pojo classes and maps to manipulate the data and validate them with assertions and HemchrestMatchers to match the status codes and the body
+        Can you tell us any exceptions you faced with api?
+        I face mismatch exception when doing deserialization to set the data to pojo classes
+        If you are given limited test data, how would you validate them?
+        I can use JSONIGNOREPROPERTIES to match the limited data
+        base url + path params + query params
